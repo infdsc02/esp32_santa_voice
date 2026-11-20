@@ -158,7 +158,7 @@ Los audios con la voz de Papá Noel los generé con el generador de voz de Santa
 
 ## Esquema de conexiones
 
-![Esquema de conexiones](docs/esquema_conexiones.png)
+![Esquema de conexiones](esquema_conexiones.png)
 
 | ESP32 | Conecta a |
 |---|---|
